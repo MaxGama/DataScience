@@ -18,7 +18,7 @@
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Dados da Violência no Rio de Janeiro:** 
+* **Dados da Violência no Rio de Janeiro:** http://bit.ly/DadosViolenciaRJ
 
 ---
 
